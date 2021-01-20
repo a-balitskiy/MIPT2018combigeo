@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "/mipt2018combigeo" # the subpath of your site, e.g. /blog
 
-url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
