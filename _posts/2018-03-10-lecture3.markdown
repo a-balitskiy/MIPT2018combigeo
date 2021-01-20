@@ -16,8 +16,6 @@ categories: lecture
   });
 </script>
 
-<script src="{{site.baseurl}}/jquery-inline-footnotes-min/jquery-inline-footnotes-min.js"></script>
-
 
 
 ## ---1.8---
