@@ -17,11 +17,7 @@ categories: lecture
 </script>
 
 <script src="{{site.baseurl}}/jquery-inline-footnotes-min/jquery-inline-footnotes-min.js"></script>
-  <script>
-    $(function() {
-      $("[rel=footnote]").inlineFootnote();
-    });
-  </script>
+
 
 
 ## ---1.8---
