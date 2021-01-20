@@ -10,7 +10,7 @@ categories: lecture
 <script src="{{site.baseurl}}/tsi-inlineDisqussions-919f4a1/inlineDisqussions.js"></script>
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/tsi-inlineDisqussions-919f4a1/inlineDisqussions.css" />
 <script>
-  disqus_shortname = 'a-balitskiy-github-io-mipt-comb-geom';
+  disqus_shortname = 'balit-ski';
   jQuery(document).ready(function() {
     jQuery("p").inlineDisqussions();
   });
