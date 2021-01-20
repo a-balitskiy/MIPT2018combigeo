@@ -19,7 +19,7 @@ email: aleksei.balitskii@phystech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Записки физтеховского курса по комбинаторике с геометрическими приложениями
 
-#baseurl: "/mipt2018combigeo" # the subpath of your site, e.g. /blog
+baseurl: "/mipt2018combigeo" # the subpath of your site, e.g. /blog
 
 url: "https://balit.ski" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
