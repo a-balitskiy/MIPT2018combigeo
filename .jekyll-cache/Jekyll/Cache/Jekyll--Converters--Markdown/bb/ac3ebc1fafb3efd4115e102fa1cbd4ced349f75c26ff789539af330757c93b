@@ -1,11 +1,11 @@
-I"èE<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+I"tE<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <script src="/tsi-inlineDisqussions-919f4a1/inlineDisqussions.js"></script>
 
 <link rel="stylesheet" type="text/css" href="/tsi-inlineDisqussions-919f4a1/inlineDisqussions.css" />
 
 <script>
-  disqus_shortname = 'a-balitskiy-github-io-mipt-comb-geom';
+  disqus_shortname = 'balit-ski';
   jQuery(document).ready(function() {
     jQuery("p").inlineDisqussions();
   });
