@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[[На главную]](https://balit.ski) [[На страницу курса 2021 г.]](https://balit.ski/mipt2021combitop)
+[[на главную]](https://balit.ski) [[на страницу курса 2021 г.]](https://balit.ski/mipt2021combitop)
