@@ -172,10 +172,13 @@ y \ge 0
 \\[
 \begin{cases}
 A^T y = c \\\
-
 b^T y < m \\\
-
 y \ge 0
+\end{cases}
+\\]
+
+\\[
+\begin{cases} A^T y = c \\\ b^T y < m \\\ \\\ y \ge 0
 \end{cases}
 \\]
 Опять же это противоречит тому, что \\(m\\) было минимумом.
